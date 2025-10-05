@@ -24,13 +24,13 @@ earnings by food type or location.
 - Ensure validations are handled.
 
 # 🔍 Queries to Implement
-1. Total earnings of restaurants in Mumbai last month
+👉 1. Total earnings of restaurants in Mumbai last month
 - Only include successful payments and completed orders.
-2. Total earnings from veg items in Bangalore
+👉 2. Total earnings from veg items in Bangalore
 - Veg items: veg manchurian, veg fried rice.
-3. Top 3 customers with most orders placed
+👉 3. Top 3 customers with most orders placed
 - Return customer name and number of orders.
-4. Daily revenue for past 7 days per city
+👉 4. Daily revenue for past 7 days per city
 - Group by date and area.
-5. Orders summary for a specific restaurant
+👉 5. Orders summary for a specific restaurant
 - Total orders by item name and count.
